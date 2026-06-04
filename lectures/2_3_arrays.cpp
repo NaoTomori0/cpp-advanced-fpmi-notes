@@ -1,6 +1,7 @@
 #include <iostream>
 
-// 2.3 Arrays ( Массивы )
+// 2.3 Лекции Мищерина Ильи
+// Arrays ( Массивы )
 
 void arrays()
 
