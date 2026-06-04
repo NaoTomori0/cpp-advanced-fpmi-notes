@@ -3,6 +3,7 @@
 
 // Compound types
 // 2.1 Лекции Мищерина Ильи
+//
 // Pointers
 void pointers()
 {
